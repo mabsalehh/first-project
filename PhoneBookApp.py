@@ -7,3 +7,4 @@ class Myclass:
 
 c1 = Myclass(10,20)
 c2 = Myclass(30,40)
+c3 = Myclass(50,60)
