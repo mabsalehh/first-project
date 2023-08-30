@@ -6,3 +6,4 @@ class Myclass:
         print(a+b)
 
 c1 = Myclass(10,20)
+c2 = Myclass(30,40)
